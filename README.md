@@ -1,4 +1,26 @@
-### Oiê! Aqui é a Vivi, como vai você?
+### Oiê! Meu nome é Vitória, como vai você? 👋
+
+- 📚 Cursando ADS e Pedagogia.
+- 🔭 Atualmente estou trabalhando em aprimorar minhas habilidades.
+- 🤔 Estou procurando ajuda com projetos iniciais para fazer um bom portfólio.
+- ⚡ Curiosidades: gosto de videogames (principalmente jogos indie), séries e filmes de vários gêneros. Minha série favorita é "Black Mirror" e meu jogo favorito é Stardew Valley.
+<br>
+- 📫 Contato: vitoriadvalois@gmail.com
+
+##
+
+### Hi there! I'm Vitória, how are you? 👋
+
+- 📚 Studying Computer Systems Analysis and Development, also studying Pedagogy.
+- 🔭 I'm currently working on improving my skills.
+- 🤔 I'm looking for help with initial projects to make a nice portfolio.
+- ⚡ Fun fact: I like video games (most indie games), series and movies of various genres. My favorite series is "Black Mirror" and my favorite game is Stardew Valley.
+<br>
+- 📫 How to reach me: vitoriadvalois@gmail.com
+
+
+##
+<br>
   <a href="https://github.com/vitoriadevalois">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vitoriadevalois&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadevalois&layout=compact&langs_count=7&theme=monokai"/>
