@@ -29,9 +29,11 @@
   
   ##
  
-<div> 
-  <a href="https://instagram.com/vitoriadevalois" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/vitoriadevalois" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
+  <a href="mailto:vitoriadvalois@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Vivi-Gmail" target="_blank"></a>
+  <a href="https://instagram.com/vitoriadevalois" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Vivi-Instagram" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vitoriadevalois" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vivi-Linkedin" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/mynameisvivi/" target="_blank"><img alt="Vivi-Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
   
   ![Snake animation](https://github.com/vitoriadevalois/vitoriadevalois/blob/output/github-contribution-grid-snake.svg)
  
