@@ -1,3 +1,5 @@
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vitoriadevalois.visitor-badgee&color=green&style=flat-square">
+
 ### Oiê! Meu nome é Vitória, como vai você? 👋
 
 - 📚 Cursando ADS e Pedagogia.
