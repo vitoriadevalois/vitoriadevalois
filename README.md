@@ -2,19 +2,19 @@
 
 ### Oiê! Meu nome é Vitória, como vai você? 👋
 
-- 📚 Cursando ADS e Pedagogia.
+- 📚 Cursando **Análise e Desenvolvimento de Sistemas** e **Pedagogia**.
 - 🔭 Atualmente estou trabalhando em aprimorar minhas habilidades.
 - 🤔 Estou procurando ajuda com projetos iniciais para fazer um bom portfólio.
-- ⚡ Curiosidades: gosto de videogames (principalmente jogos indie), séries e filmes de vários gêneros. Minha série favorita é "Black Mirror" e meu jogo favorito é Stardew Valley.
+- ⚡ Curiosidades: gosto de videogames (principalmente jogos indie), séries e filmes de vários gêneros. Minha série favorita é **Black Mirror** e meu jogo favorito é **Stardew Valley**.
 
 ##
 
 ### Hi there! I'm Vitória, how are you? 👋
 
-- 📚 Studying Computer Systems Analysis and Development, also studying Pedagogy.
+- 📚 Studying **Computer Systems Analysis and Development**, also studying **Pedagogy**.
 - 🔭 I'm currently working on improving my skills.
 - 🤔 I'm looking for help with initial projects to make a nice portfolio.
-- ⚡ Fun fact: I like video games (most indie games), series and movies of various genres. My favorite series is "Black Mirror" and my favorite game is Stardew Valley.
+- ⚡ Fun fact: I like video games (most indie games), series and movies of various genres. My favorite series is **Black Mirror** and my favorite game is **Stardew Valley**.
 
 ##
 <br>
